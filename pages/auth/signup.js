@@ -7,7 +7,7 @@ export default function Index() {
   return (
     <>
       <div className="p-6">
-        <NavLayout />
+        <NavLayout isLogin />
         <Signup />
         <Footer />
       </div>
